@@ -1,16 +1,10 @@
 # CodeGenesis- An AI-Code-Summarizer ✒️🤖
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/user-attachments/assets/10b14620-811c-4395-88ec-a309e5b6105f" alt="CodeScribe AI Banner" width="600"/>
-</p>
 
 <p align="center">
   <em>Your AI-powered partner for automatic code documentation.</em>
   <br/><br/>
-  <img src="https://img.shields.io/github/stars/your-username/your-repo-name?style=social" alt="GitHub Stars">
-  <img src="https://img.shields.io/github/forks/your-username/your-repo-name?style=social" alt="GitHub Forks">
-  <img src="https://img.shields.io/github/license/your-username/your-repo-name" alt="License">
-  <img src="https://img.shields.io/badge/Python-3.9+-blue.svg" alt="Python Version">
+  
 </p>
 
 ---
