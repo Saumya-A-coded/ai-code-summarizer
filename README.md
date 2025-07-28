@@ -44,7 +44,7 @@ Follow these steps to get CodeGenesis AI running on your local machine.
 1.  **Clone the repository:**
     ```bash
     git clone (git clone https://github.com/Saumya-A-coded/ai-code-summarizer.git)
-    cd your-repo-name
+    cd ai-code-summarizer
     ```
 2.  **Create and activate a virtual environment:**
     ```bash
