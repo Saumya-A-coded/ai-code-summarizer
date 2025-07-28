@@ -9,7 +9,7 @@
 
 ---
 
-CodeScribe AI uses multi-agent systems powered by Microsoft Autogen to read your codebase, understand the logic within functions and classes, and generate clear, natural-language summaries. Stop writing boilerplate documentation and let your AI partner do it for you.
+CodeGenesis AI uses multi-agent systems powered by Microsoft Autogen to read your codebase, understand the logic within functions and classes, and generate clear, natural-language summaries. Stop writing boilerplate documentation and let your AI partner do it for you.
 
 ## 📋 Table of Contents
 
