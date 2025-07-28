@@ -74,6 +74,7 @@ Once installed, running the tool is simple:
     python main.py
     ```
 3.  Find your generated documentation in the `output/summary.json` file!
+4.  You will also see the output being generated in your terminal space.
 
 ---
 
