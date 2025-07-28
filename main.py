@@ -92,3 +92,4 @@ if __name__ == "__main__":
 
     # Call the main summarization function
     summarize_all_code(input_folder, output_file)
+
