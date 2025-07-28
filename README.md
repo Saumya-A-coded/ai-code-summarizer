@@ -13,11 +13,11 @@ CodeScribe AI uses multi-agent systems powered by Microsoft Autogen to read your
 
 ## 📋 Table of Contents
 
-- [✨ Features](#-features)
-- [🚀 Getting Started](#-getting-started)
-- [Usage](#-usage)
-- [🤝 Contributing](#-contributing)
-- [License](#-license)
+- [ Features](#-features)
+- [ Getting Started](#-getting-started)
+- [ Usage](#-usage)
+- [ Contributing](#-contributing)
+- [ License](#-license)
 
 ---
 
